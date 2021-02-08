@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T12:44:02.558Z" agent="5.0 (Windows)" version="14.3.0" etag="xCkjessi4mTS0rzZ6rmO" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-08T14:29:30.301Z" agent="5.0 (Windows)" etag="xU_DuBxSmMofk_DVENw3" version="14.3.0" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1165" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="AY7c7VuTfJwzF2gi5jqR-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="365" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-34" target="AY7c7VuTfJwzF2gi5jqR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="588" y="265" />
+              <mxPoint x="588" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-34" value="Alle USE mottatt melding?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="438" y="210" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-41" target="AY7c7VuTfJwzF2gi5jqR-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-41" target="AY7c7VuTfJwzF2gi5jqR-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-41" value="USE deler opp melding, videresender meldingen til dronene." style="whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="355" y="370" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-125" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-49" target="AY7c7VuTfJwzF2gi5jqR-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-49" value="Dronene starter program med 5 sek mellomrom." style="whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="363" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-56" target="AY7c7VuTfJwzF2gi5jqR-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-56" target="AY7c7VuTfJwzF2gi5jqR-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-56" target="AY7c7VuTfJwzF2gi5jqR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-56" value="Send start-melding fra BS til USEne" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="265" />
+              <mxPoint x="270" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-59" value="Timer &amp;gt; 5 sek" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="282" y="210" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="588" y="265" />
+              <mxPoint x="588" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-95" value="Alle USE mottatt melding?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="438" y="210" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-99" target="AY7c7VuTfJwzF2gi5jqR-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-99" target="AY7c7VuTfJwzF2gi5jqR-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-99" target="AY7c7VuTfJwzF2gi5jqR-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-99" value="Send start-melding fra BS til USEne" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-102" target="AY7c7VuTfJwzF2gi5jqR-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="347" y="340" />
+              <mxPoint x="250" y="340" />
+              <mxPoint x="250" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="265" />
+              <mxPoint x="270" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-102" value="Timer &amp;gt; 5 sek" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="282" y="210" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-104" target="AY7c7VuTfJwzF2gi5jqR-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="588" y="555" />
+              <mxPoint x="588" y="450" />
+              <mxPoint x="530" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-104" value="Alle dronene mottatt melding?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="438" y="500" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AY7c7VuTfJwzF2gi5jqR-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="555" />
+              <mxPoint x="190" y="100" />
+              <mxPoint x="240" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-111" value="Timer &amp;gt; 5 sek" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="282" y="500" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AY7c7VuTfJwzF2gi5jqR-124" value="Utskytningssystem ferdig" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="363" y="740" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
