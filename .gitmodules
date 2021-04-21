@@ -22,3 +22,9 @@
 [submodule "Packages/ds_ros2_drone"]
 	path = Packages/ds_ros2_drone
 	url = https://github.com/martinmaeland/ds_ros2_drone
+[submodule "Electronics/PCB/cm4_cb_use_v01"]
+	path = Electronics/PCB/cm4_cb_use_v01
+	url = https://github.com/martinmaeland/cm4_cb_use_v01
+[submodule "Electronics/PCB/cm4_cb_drone_pcb"]
+	path = Electronics/PCB/cm4_cb_drone_pcb
+	url = https://github.com/mdherman/cm4_cb_drone_pcb
