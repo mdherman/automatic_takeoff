@@ -31,3 +31,6 @@
 [submodule "Packages/ds_ros2_bs"]
 	path = Packages/ds_ros2_bs
 	url = https://github.com/martinmaeland/ds_ros2_bs
+[submodule "Packages/ds_ros2_msgs"]
+	path = Packages/ds_ros2_msgs
+	url = https://github.com/martinmaeland/ds_ros2_msgs
