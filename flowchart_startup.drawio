@@ -1,0 +1,128 @@
+<mxfile host="app.diagrams.net" modified="2021-04-21T08:23:48.979Z" agent="5.0 (Windows)" etag="pPJGOs0spKdFo7GtvXOF" version="14.6.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="716" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="NLdrLcy91jlK9kiJ1mE5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="bMEXo8M53ZU2Udsn2WIl-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="371.33333333333326" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Power on in drones" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="310.03" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bMEXo8M53ZU2Udsn2WIl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370.7142857142858" y="310.0499248120302" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-6" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bMEXo8M53ZU2Udsn2WIl-3">
+          <mxGeometry x="-0.8602" y="-1" relative="1" as="geometry">
+            <mxPoint x="20" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bMEXo8M53ZU2Udsn2WIl-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="230" />
+              <mxPoint x="480" y="150" />
+              <mxPoint x="380" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-5" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bMEXo8M53ZU2Udsn2WIl-4">
+          <mxGeometry x="-0.8855" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-1" value="Have companion computer said turned on?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295.01" y="170" width="150.03" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bMEXo8M53ZU2Udsn2WIl-12" target="bMEXo8M53ZU2Udsn2WIl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-12" value="Run systems check" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310.03" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bMEXo8M53ZU2Udsn2WIl-16" target="bMEXo8M53ZU2Udsn2WIl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-14" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bMEXo8M53ZU2Udsn2WIl-13">
+          <mxGeometry x="-0.3564" y="-2" relative="1" as="geometry">
+            <mxPoint x="-6" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bMEXo8M53ZU2Udsn2WIl-16" target="bMEXo8M53ZU2Udsn2WIl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-20" value="&lt;div&gt;Yes&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bMEXo8M53ZU2Udsn2WIl-15">
+          <mxGeometry x="-0.2524" y="1" relative="1" as="geometry">
+            <mxPoint x="19" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bMEXo8M53ZU2Udsn2WIl-16" target="bMEXo8M53ZU2Udsn2WIl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-16" value="Systems check ok?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315.33" y="400" width="109.41" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-17" value="&lt;div&gt;Send warning&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="479.385" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bMEXo8M53ZU2Udsn2WIl-18" target="bMEXo8M53ZU2Udsn2WIl-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-18" value="Connect to PX via MicroRTPS" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310.03499999999997" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-21" value="&lt;div&gt;Battery OK?&lt;/div&gt;&lt;div&gt;Motors OK?&lt;br&gt;WiFi connected?&lt;/div&gt;&lt;div&gt;Check connections between USE, BS and drone&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="405" width="208.72" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-23" value="Connected to PX?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320.02" y="620" width="100.02" height="99.98" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="bMEXo8M53ZU2Udsn2WIl-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.03999999999985" y="669.99" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-26" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bMEXo8M53ZU2Udsn2WIl-25">
+          <mxGeometry x="-0.3564" y="-2" relative="1" as="geometry">
+            <mxPoint x="-6" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-27" value="&lt;div&gt;Send warning&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470.015" y="639.99" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="bMEXo8M53ZU2Udsn2WIl-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370.02857142857147" y="719.9841243291944" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-34" value="&lt;div&gt;Yes&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bMEXo8M53ZU2Udsn2WIl-33">
+          <mxGeometry x="-0.2524" y="1" relative="1" as="geometry">
+            <mxPoint x="19" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-35" value="&lt;div&gt;Start to read drone info/data with&lt;/div&gt;&lt;div&gt; ROS 2 nodes &lt;br&gt;&lt;/div&gt;&lt;div&gt;(USE and drone)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310.03" y="749.99" width="120" height="70.01" as="geometry" />
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeWidth=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="bMEXo8M53ZU2Udsn2WIl-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="819.9980102367244" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-37" value="&lt;div&gt;Yes&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bMEXo8M53ZU2Udsn2WIl-36">
+          <mxGeometry x="-0.2524" y="1" relative="1" as="geometry">
+            <mxPoint x="19" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bMEXo8M53ZU2Udsn2WIl-38" value="End of startup" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310.03499999999997" y="850.03" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
