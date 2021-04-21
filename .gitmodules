@@ -7,3 +7,9 @@
 [submodule "ROS2_packages/ds_ros2_use"]
 	path = ROS2_packages/ds_ros2_use
 	url = https://github.com/martinmaeland/ds_ros2_use
+[submodule "Tools/ros2_nopain"]
+	path = Tools/ros2_nopain
+	url = https://github.com/martinmaeland/ros2_nopain
+[submodule "Tools/px4_ros2_nopain"]
+	path = Tools/px4_ros2_nopain
+	url = https://github.com/mdherman/px4_ros2_nopain
