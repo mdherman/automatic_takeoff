@@ -1,0 +1,9 @@
+[submodule "ROS2_packages/ds_ros2_drone_pkg"]
+	path = ROS2_packages/ds_ros2_drone_pkg
+	url = https://github.com/mdherman/ds_ros2_drone_pkg
+[submodule "ROS2_packages/ds_ros2_bs"]
+	path = ROS2_packages/ds_ros2_bs
+	url = https://github.com/martinmaeland/ds_ros2_bs
+[submodule "ROS2_packages/ds_ros2_use"]
+	path = ROS2_packages/ds_ros2_use
+	url = https://github.com/martinmaeland/ds_ros2_use
