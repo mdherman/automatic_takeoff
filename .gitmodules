@@ -13,3 +13,12 @@
 [submodule "Tools/px4_ros2_nopain"]
 	path = Tools/px4_ros2_nopain
 	url = https://github.com/mdherman/px4_ros2_nopain
+[submodule "Packages/ds_ros2_drone_pkg"]
+	path = Packages/ds_ros2_drone_pkg
+	url = https://github.com/mdherman/ds_ros2_drone_pkg
+[submodule "Packages/ds_ros2_use"]
+	path = Packages/ds_ros2_use
+	url = https://github.com/martinmaeland/ds_ros2_use
+[submodule "Packages/ds_ros2_drone"]
+	path = Packages/ds_ros2_drone
+	url = https://github.com/martinmaeland/ds_ros2_drone
