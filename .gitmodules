@@ -34,3 +34,15 @@
 [submodule "Packages/ds_ros2_msgs"]
 	path = Packages/ds_ros2_msgs
 	url = https://github.com/martinmaeland/ds_ros2_msgs
+[submodule "px4_ros_com"]
+	path = px4_ros_com
+	url = https://github.com/martinmaeland/px4_ros_com
+[submodule "Packages/Packages"]
+	path = Packages/Packages
+	url = https://github.com/martinmaeland/px4_ros_com
+[submodule "Packages/px4_ros_com"]
+	path = Packages/px4_ros_com
+	url = https://github.com/martinmaeland/px4_ros_com
+[submodule "Packages/px4_msgs"]
+	path = Packages/px4_msgs
+	url = https://github.com/martinmaeland/px4_msgs
